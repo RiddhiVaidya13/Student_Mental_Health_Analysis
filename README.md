@@ -3,9 +3,7 @@ This repository contains an Exploratory Data Analysis (EDA) project titled "Stud
 📌 Project Overview:
 Objective: To analyze the impact of online learning and associated lifestyle changes on student mental health, especially stress levels.
 
-Data Source: [Mention if public, or “Confidential” if private]
-
-Tech Stack: Python (Pandas, Matplotlib, Seaborn), MS PowerPoint
+Tech Stack: Python (Pandas, Matplotlib, Seaborn).
 
 Key Variables: Screen time, sleep duration, physical activity, exam anxiety, education level, and age.
 
@@ -24,4 +22,4 @@ Surprisingly, high stress students also report more physical activity, possibly 
 📂 Files Included:
 Student Mental Health Analysis.ipynb — Jupyter Notebook with code and EDA
 
-EDA_student_stress.pptx — Presentation slides summarizing key findings and visualizations
+
